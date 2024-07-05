@@ -11,7 +11,7 @@ The aim of this analysis is to examine UK crime data to identify key trends and 
 It is imperative to obtain data from reputable and credible sources in order to perform an exhaustive examination of UK crime statistics. Thus this data was source from the Office for National Statistics (ONS) https://www.ons.gov.uk/
 
 ## Data Transformation and cleaning
-###Data before transformationa and cleaning.
+### Data before transformationa and cleaning.
 
 ![image](https://github.com/Priciky/Harnessing-the-power-of-crime./assets/171287808/5112a2b2-8e6a-4fd2-89d1-953c204fa135)
 
