@@ -1,4 +1,33 @@
 # Harnessing-the-power-of-crime.
+![PHOTO-2024-07-05-20-52-54](https://github.com/Priciky/Harnessing-the-power-of-crime./assets/171287808/dfc9bb11-efb2-4625-a85e-63da1062573d)
 
-![Project Image](https://private-user-images.githubusercontent.com/135570337/244950072-9a24ad87-ff89-47c1-a078-2d734330aa44.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAxMjUyNzgsIm5iZiI6MTcyMDEyNDk3OCwicGF0aCI6Ii8xMzU1NzAzMzcvMjQ0OTUwMDcyLTlhMjRhZDg3LWZmODktNDdjMS1hMDc4LTJkNzM0MzMwYWE0NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwNFQyMDI5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NjM1MDljMTgzYWQwYzExYTY4NTY4MjhlMGQzMzgwNjIxZDY1Y2FlZjZjMmQyMWExMWY1YjAzYTQ2MmVkOWY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.LqGxTu1_QN6tyYHbbxaWJtx7FQmJhhpIkFiLmcZNXrQ)
 ## Introduction
+UK crime data provides an extensive overview of criminal activities reported across England. Collected and published by various law enforcement agencies and statistical bodies such as the Office for National Statistics (ONS) and Police.uk, this data includes details on different types of crimes, trends over time, and geographical distribution. The data encompasses a range of offenses, from violent crimes and theft to cybercrime and drug-related incidents, helping policymakers, researchers, and the public understand and address crime-related issues effectively. Analyzing this data aids in identifying patterns, improving public safety strategies, and allocating resources more efficiently. This project is in collabortion with Datafied Academy (www.datafied.tech)
+
+## Problem Statement
+The aim of this analysis is to examine UK crime data to identify key trends and patterns in criminal activities across different regions and time periods. By doing so, we intend to address the following objectives: TREND ANALYSIS,GEOGRAPHICAL DISTRIBUTION, CRIME TYPE AND CORRELATION, PREDICTIVE ANALYSIS. This analysis will provide insights that can inform policymakers, law enforcement agencies, and community leaders in their efforts to reduce crime and improve public safety in the UK.
+
+## Data sourcing
+It is imperative to obtain data from reputable and credible sources in order to perform an exhaustive examination of UK crime statistics. Thus this data was source from the Office for National Statistics (ONS) https://www.ons.gov.uk/
+
+## Data Transformation and cleaning
+###Data before transformationa and cleaning.
+
+![image](https://github.com/Priciky/Harnessing-the-power-of-crime./assets/171287808/5112a2b2-8e6a-4fd2-89d1-953c204fa135)
+
+
+Data after transformation and cleaning.
+![image](https://github.com/Priciky/Harnessing-the-power-of-crime./assets/171287808/0d2ebf6a-a18c-49af-ba4f-027da31689b2)
+
+
+## Data Modelling
+
+![image](https://github.com/Priciky/Harnessing-the-power-of-crime./assets/171287808/3b76a852-be0c-47a0-a8b4-42d84985cc83)
+
+
+
+
+
+
+
+
